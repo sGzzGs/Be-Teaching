@@ -1,0 +1,7 @@
+# Ignorar todo o código-fonte, pastas de projeto e arquivos de desenvolvimento
+/*
+!/.gitignore
+!/README.md
+!/leia-me.txt
+!/Be Teaching v1.0 - Leve (Requer .NET 8).exe
+!/Be Teaching v1.0 - Portatil (Sem Dependencias).exe
